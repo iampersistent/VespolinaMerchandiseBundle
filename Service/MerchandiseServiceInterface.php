@@ -10,7 +10,7 @@
 namespace Vespolina\MerchandiseBundle\Service;
 
 use Vespolina\MerchandiseBundle\Model\MerchandiseInterface;
-use Vespolina\ProductBundle\Model\ProductInterface;
+use Vespolina\Entity\ProductInterface;
 
 
 interface MerchandiseServiceInterface

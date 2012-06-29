@@ -13,7 +13,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 use Vespolina\MerchandiseBundle\Model\MerchandiseInterface;
 use Vespolina\MerchandiseBundle\Service\MerchandiseServiceInterface;
-use Vespolina\ProductBundle\Model\ProductInterface;
+use Vespolina\Entity\ProductInterface;
 
 /**
  * MerchandiseService handles the relationship between a merchandise and linked products
